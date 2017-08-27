@@ -1,0 +1,53 @@
+body {
+    background-color: lightpink;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 1px;
+    overflow: hidden;
+    background-color: #e38bad;
+    position: fixed;
+    top: 0;
+    width: 100%;
+}
+li {
+    float: left;
+}
+li a {
+    display: inline-table;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 18px;
+    margin-left: 5px;
+    margin-right: 5px;
+
+}
+li a:hover {
+    background-color: #ff8bad;
+}
+
+.fada{
+  background-color: lightpink;
+  margin-left: 0;
+  margin-right: 0;
+
+
+}
+.active {
+    background-color: #ff8bad;
+    border: 1px solid lightgray;
+}
+
+.logo_navbar{
+    width: 90px;
+}
+.logo{
+  display: block;
+  margin: auto;
+  width: 40%;
+  margin-top: 100px;
+}
