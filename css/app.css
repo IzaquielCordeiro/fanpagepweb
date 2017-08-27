@@ -65,6 +65,47 @@ li a:hover {
 .musatext1{
     color:crimson;
 }
+
+.bloomtext {
+    color:dodgerblue;
+    border: 1px solid dodgerblue;
+}
+.bloomtext1{
+    color:dodgerblue;
+    
+}
+.stellatext {
+    color:coral;
+    border: 1px solid coral;
+    
+}
+.stellatext1 {
+    color: coral;
+    
+}
+.floratext {
+    color: #C71585;
+    border: 1px solid #C71585;
+    
+
+}
+.floratext1{
+    color: #C71585;
+}
+.tecnatext{
+    color: #8A2BE2;
+    border: 1px solid #8A2BE2;
+}
+.tecnatext1{
+    color:#8A2BE2;
+}
+.aishatext{
+    color: #2E8B57;
+    border: 1px solid #2E8B57;  
+}
+.aishatext1{
+    color: #2E8B57;
+}
 p {
     text-align: justify;
     font-size: 130%;
