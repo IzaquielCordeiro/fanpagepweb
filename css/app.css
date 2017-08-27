@@ -4,6 +4,7 @@ body {
 
 main{
 margin-top: 100px;
+text-align: center;
 }
 
 ul {
@@ -54,4 +55,30 @@ li a:hover {
   margin: auto;
   width: 40%;
   margin-top: 100px;
+}
+
+.musatext {
+  color:crimson;
+  border: 1px solid crimson;
+
+}
+.musatext1{
+    color:crimson;
+}
+p {
+    text-align: justify;
+    font-size: 130%;
+
+}
+
+h4{
+    font-size: 200%;
+    text-align: justify
+}
+
+
+img {
+    display: block;
+    margin: auto;
+    width: 50%;
 }
