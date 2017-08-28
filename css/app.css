@@ -1,6 +1,7 @@
 body {
     background-color: lightpink;
     font-family: "Courier New", Courier, monospace;
+    color:#8B475D;
 }
 
 main{
@@ -8,7 +9,7 @@ margin-top: 100px;
 text-align: center;
 }
 
-ul {
+header ul {
     list-style-type: none;
     margin: 0;
     padding: 1px;
@@ -18,16 +19,48 @@ ul {
     top: 0;
     width: 100%;
 }
+
 li {
     float: left;
+}
+main ul {
+    list-style-type: none;   
+    background-color: #D02090;
+    padding: 1px;
+    overflow: hidden;
+    margin:0;
+    top:0;
+    margin-top: -45px;
 }
 
 h4{
   margin-left: 25px;
 }
+aside{
+    display:block;
+    text-align: center;
+    margin-bottom: 60px;
+}
+aside a{
+    color:#CD6889;
+}
+dl{
+    display:inline-flex;
+    margin-bottom: 1em;
+    margin-left: 10;
+    margin-right: 10;
+    text-align: center;
+}
+dt{
+    margin-right: 10px;
+    margin-left: 10px;
+}
+
 p{
   margin-right: 100px;
   margin-left: 100px;
+  margin-top: 25px;
+  margin-bottom: 25px;
 }
 li a {
     display: inline-table;
@@ -43,7 +76,11 @@ li a {
 li a:hover {
     background-color: #ff8bad;
 }
-
+.home {
+    text-align: justify;
+    margin-left: 95px;
+    margin-top: 80px;
+}
 .fada{
   background-color: lightpink;
   margin-left: 0;
