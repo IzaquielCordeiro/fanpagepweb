@@ -21,6 +21,14 @@ ul {
 li {
     float: left;
 }
+
+h4{
+  margin-left: 25px;
+}
+p{
+  margin-right: 100px;
+  margin-left: 100px;
+}
 li a {
     display: inline-table;
     color: white;
@@ -63,10 +71,10 @@ li a:hover {
 }
 
 .bloomtext {
-    color:dodgerblue;   
+    color:dodgerblue;
 }
 .stellatext {
-    color:coral; 
+    color:coral;
 }
 .floratext {
     color: #C71585;
