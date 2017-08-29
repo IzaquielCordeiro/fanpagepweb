@@ -58,7 +58,7 @@ aside{
     margin-bottom: 60px;
 }
 
-aside a{
+aside a , .linkmain{
     color:#CD6889;
 }
 
