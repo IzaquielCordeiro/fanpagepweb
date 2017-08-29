@@ -136,9 +136,6 @@ li a:hover {
 .bloomtext {
     color:dodgerblue;
 }
-.stellatext {
-    color:coral;
-}
 .floratext {
     color: #C71585;
 }
@@ -152,3 +149,11 @@ li a:hover {
 .stellatext{
     color: #FF6600;
 }
+footer {
+    background-color: #EE799F;
+    text-align: center;
+}
+footer img {
+    width: 30%
+}
+
